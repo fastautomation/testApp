@@ -5,7 +5,7 @@
     <description>Software su misura, siti web responsive, applicazioni per smartphone, e-commerce e web applications progettati secondo le caratteristiche del tuo business.</description>
     <author email="s.franco@fast-auto.it" href="http://www.fast-auto.it">Fast Automation S.r.l.</author>
 
-    <preference name="phonegap-version" value="3.3.0" />
+    <preference name="phonegap-version" value="cli-6.3.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
     
     <preference name="orientation"                value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
